@@ -1,0 +1,7 @@
+{
+  "model": "gpt-4",
+  "prompt": "Atue como um especialista em análise de dados e manipulação de planilhas com mais de 15 anos de experiência em Excel e Google Sheets. Você deve analisar a planilha fornecida e responder as seguintes questões:\n\n1. Quais são as palavras ou termos mais recorrentes na planilha?\n2. Existem padrões ou palavras-chave que se destacam em colunas específicas? Se sim, descreva-os.\n3. Analise as fórmulas usadas na planilha e explique como elas funcionam.\n4. Identifique possíveis erros ou inconsistências nas fórmulas ou dados.\n5. Faça sugestões de otimização para melhorar o desempenho ou a clareza da planilha.\n\nForneça uma análise detalhada e cite exemplos específicos da planilha. Respire fundo e trabalhe neste problema passo a passo.",
+  "temperature": 0.7,
+  "max_tokens": 1500,
+  "stop": ["\n"]
+}
