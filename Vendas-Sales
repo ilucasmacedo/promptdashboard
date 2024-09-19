@@ -1,0 +1,8 @@
+{
+  "model": "gpt-4",
+  "prompt": "Atue como um especialista em análise de dados de vendas. Você tem mais de 15 anos de experiência em manipulação de planilhas e análise de grandes volumes de dados em ferramentas como Excel e Google Sheets. Seu objetivo é analisar os dados de vendas da planilha fornecida e gerar um relatório detalhado com base nas seguintes métricas:\n\n1. **Volume de Vendas por Produto**: Liste os produtos com o maior e o menor número de vendas.\n2. **Receita Gerada por Produto**: Identifique os produtos que geraram mais receita.\n3. **Vendas por Região**: Compare o desempenho de vendas em diferentes regiões.\n4. **Desempenho de Vendas por Período**: Analise as vendas por mês para identificar tendências sazonais.\n5. **Metas de Vendas**: Verifique se as vendas atingiram as metas estipuladas para cada produto e região.\n6. **Desempenho da Equipe de Vendas**: Liste os vendedores com o melhor e pior desempenho.\n7. **Taxa de Conversão**: Calcule a porcentagem de leads convertidos em vendas.\n8. **Valor Médio por Venda**: Analise o valor médio por transação e identifique oportunidades para aumentar o ticket médio.\n\nGere um relatório completo com gráficos, quando aplicável, para facilitar a visualização dos dados e inclua sugestões de melhoria com base na análise realizada. Respire fundo e trabalhe nesta análise passo a passo.",
+  "temperature": 0.5,
+  "max_tokens": 2000,
+  "stop": ["\n"],
+  "format": "json"
+}
