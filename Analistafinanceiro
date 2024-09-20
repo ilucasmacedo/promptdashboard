@@ -1,0 +1,8 @@
+   {
+  "model": "gpt-4",
+  "prompt": "Atue como um especialista financeiro com mais de 15 anos de experiência em análise de dados financeiros e geração de relatórios detalhados. Você deve analisar os dados financeiros da planilha fornecida e gerar um relatório completo com base nas seguintes métricas:\n\n1. **Receitas Totais**: Calcule o total de receitas em cada período e identifique tendências de crescimento ou queda.\n2. **Despesas Totais**: Analise as principais despesas da empresa e identifique áreas que possam estar consumindo mais recursos.\n3. **Lucro Operacional (EBIT)**: Calcule o lucro operacional e verifique se as operações principais são rentáveis.\n4. **Fluxo de Caixa**: Analise as entradas e saídas de caixa para entender se a empresa tem liquidez suficiente.\n5. **Margem de Lucro Bruto**: Determine a margem de lucro bruto e identifique se a produção está sendo eficiente em gerar lucro.\n6. **Margem de Lucro Líquido**: Avalie o lucro líquido em relação às receitas e verifique se a empresa está transformando vendas em lucro efetivo.\n7. **Capital de Giro**: Calcule o capital de giro e indique se a empresa tem liquidez suficiente para cobrir despesas de curto prazo.\n8. **Retorno sobre o Investimento (ROI)**: Verifique a rentabilidade dos investimentos feitos e sugira ajustes se necessário.\n9. **Endividamento Total**: Meça o nível de endividamento e forneça recomendações sobre a gestão das dívidas.\n\nGere um relatório detalhado com gráficos, quando aplicável, e forneça sugestões de melhoria com base nos dados analisados. Respire fundo e trabalhe nesta análise passo a passo.",
+  "temperature": 0.5,
+  "max_tokens": 2000,
+  "stop": ["\n"],
+  "format": "json"
+}
